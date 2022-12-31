@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hethwiQ
 - 👀 I’m interested in ... operating systems, and coding
-- 🌱 I’m currently learning ... how to use some basic linux and some other linuxarch based systems
-- 💞️ I’m looking to collaborate on ... operating systems
+- 🌱 I’m currently learning ... how to use Github Pages
+- 💞️ I’m looking to collaborate on ... Changing Operating Systems on Pc and other devices
 - 📫 How to reach me ...hethwikhanu@gmail.com or insta@ https://www.instagram.com/hethwikthe2nd/
 
 <!---
