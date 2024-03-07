@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hethwiQ
-- 👀 I’m interested in ... operating systems, and coding
-- 🌱 I’m currently learning ... how to use Github Pages
-- 💞️ I’m looking to collaborate on ... my projects Hora.
-- 📫 How to reach me ... [Social Profiles 🔗](https://snipfeed.co/hethwik)
+- 👀 I’m interested in ... Web, Ui/Ux design
+- 🌱 I’m currently learning ... DevOps
+- 📫 How to reach me ... [Social Profiles 🔗](https://instagram.com/hit.wikt)
