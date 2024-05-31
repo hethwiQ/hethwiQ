@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hethwiQ
-- 👀 I’m interested in ... Web, Ui/Ux design
+- 👀 I’m interested in ... Advanced Tech, Web, Ui/Ux design, devops, software engineering.
 - 🌱 I’m currently learning ... DevOps
-- 📫 How to reach me ... [Social Profiles 🔗](https://instagram.com/hit.wikt)
+- 📫 How to reach me ... [Social Profiles 🔗](https://hethwiq.github.io/Portfolio/)
