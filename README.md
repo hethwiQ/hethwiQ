@@ -36,5 +36,5 @@ I'm a passionate self-learner who thrives on curiosity. Whether it's front-end d
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Always+learning!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Jack+of+all+trades,+master+of+some!" alt="Typing SVG">
 </div>
